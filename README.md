@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @psubham
 - 👀 I’m interested in mean stack technology
-- 🌱 I’m currently learning React with Go
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on Go
 
 <!---
